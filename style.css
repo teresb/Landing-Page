@@ -246,12 +246,11 @@ span{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, auto));
     gap: 5rem;
-    justify-content: center;
 }
 .cart img{
-    width: 380px;
+    width: 80%;
     height: auto;
-    border-radius: 5px;
+    border-radius: 5px; 
 }
 .cart h5{
     color: #636872;
