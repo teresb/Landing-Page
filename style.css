@@ -243,14 +243,14 @@ span{
     margin-bottom: 30px;
 }
 .cart img{
-    width: 450px;
-    height: 600px;
+    width: 400px;
+    height: auto;
     border-radius: 5px;
 }
 .update-cart{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(380px, auto));
-    gap: 15rem;
+    gap: 2rem;
 }
 .cart h5{
     color: #636872;
